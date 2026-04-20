@@ -7,7 +7,6 @@ public class latihan2 {
         String hewan = "";
         int pilihan;
 
-        // S1
         System.out.println("Masukan pilihan yang anda inginkan:");
         System.out.println("1. Ayam");
         System.out.println("2. Bebek");

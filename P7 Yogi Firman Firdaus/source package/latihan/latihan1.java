@@ -8,7 +8,6 @@ public class latihan1 {
         String nama = "";
         String jurusan = "Teknik Informatika";
 
-        // S1
         System.out.println("Masukan pilihan yang anda inginkan:");
         System.out.println("1. Teknik Informatika");
         System.out.println("2. Cari informasi jurusan lain");
